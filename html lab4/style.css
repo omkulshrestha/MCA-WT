@@ -1,0 +1,17 @@
+form{
+height: 70vh;
+    overflow: scroll;
+    border: 2px solid black;
+    box-sizing: border-box;
+    border-radius: 6px;
+    padding: 19px;
+    margin: 3px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 90vw;
+    flex-direction: column;
+    /* box-shadow: 3px solid ; */
+    justify-content: space-evenly;
+
+}
